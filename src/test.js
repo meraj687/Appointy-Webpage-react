@@ -394,7 +394,24 @@ Our solution can be customized to cater to any specific scheduling needs of your
       </div>
     </div>
       
-    
+    <br/><br/><br/><br/><br/><br/><br/>
+
+    <div className="container mid-cnt" >
+    <CardDeck>
+  <Card>
+    <Card.Img variant="top" src="https://www.appointy.com/education-scheduling-software/uploads/2020/05/Artboard-1-copy-1-min.png" />
+  </Card>
+  <Card>
+    <Card.Img variant="top" src="https://www.appointy.com/education-scheduling-software/uploads/2020/05/Artboard-1-copy-2-1-min.png" />
+  </Card>
+  <Card>
+    <Card.Img variant="top" src="https://www.appointy.com/education-scheduling-software/uploads/2020/05/Apointy-G2-300x100-1-1-min.png" />
+  </Card>
+   <Card>
+    <Card.Img variant="top" src="https://www.appointy.com/education-scheduling-software/uploads/2020/05/Appointy-Google-review-min.png" />
+  </Card>
+</CardDeck>
+</div>
     </>
   )
 }
