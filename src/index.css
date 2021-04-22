@@ -1,0 +1,72 @@
+.btn1 {
+  background-image: linear-gradient(to right, #ed2d78, #cf2d86);
+  color: white;
+  font-size: 50px;
+  border-radius: 100px;
+  font-size: 17px;
+  width: 133%;
+  border: none;
+  padding: 9px 17px;
+}
+.btn2 {
+  background-image: #ededed;
+  color: #333;
+  font-size: 50px;
+  border-radius: 100px;
+  font-size: 17px;
+  width: 80%;
+  border: none;
+  padding: 9px 17px;
+}
+.btn3 {
+  border-radius: 15px;
+  padding: 0.8rem;
+  background: white;
+  color: red;
+  border: solid red;
+  width: 15%;
+}
+.btn3:hover {
+  border: solid white;
+  background: none;
+}
+.btn2:hover {
+  color: whitesmoke;
+}
+.nav-link a {
+  color: #a6a6a6;
+}
+.nav-link a:hover {
+  color: #444d50;
+}
+.text {
+  text-align: center;
+}
+.mid-cnt .card {
+  border: 0;
+}
+.mid-cnt .card img {
+  max-width: 110px;
+}
+.midedu {
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 1rem;
+}
+.midedu h4 {
+  padding-left: 10px;
+  font-size: 17px;
+}
+.educnt {
+  background-color: #f2f5fa;
+  border-radius: 10px;
+  margin-bottom: 3rem;
+  color: #707070;
+}
+.txtsiz {
+  font-size: 20px;
+}
+.btn-primary .btn3 {
+  border-radius: 10em;
+  padding: 18rem;
+}
