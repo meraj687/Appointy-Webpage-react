@@ -14,7 +14,11 @@ export default function test() {
   return (
     <>
       <Navbar bg="light" expand="lg" className="shadb">
-  <Navbar.Brand href="#home" ><img src={logo} alt="" srcset="" style={{width:'30%'}} className="container"/></Navbar.Brand>
+        <div className="container">
+  <div className="logo ">
+  <Navbar.Brand href="#home" ><img src={logo} alt="" srcset="" style={{width:'200px'}} className="container"/></Navbar.Brand>
+  </div>
+  <div className="menu">
   <Navbar.Toggle aria-controls="basic-navbar-nav" />
   <Navbar.Collapse id="basic-navbar-nav link-item" >
    <Nav.Link href="#home" >Home</Nav.Link>
@@ -32,6 +36,8 @@ export default function test() {
       <Nav.Link href="#link">Login</Nav.Link>
       <Nav.Link href="#link"><button type="submit" className="btn1" >Sign Up</button></Nav.Link>
   </Navbar.Collapse>
+  </div>
+  </div>
 </Navbar>
 <div className="container" style={{padding:'8rem 0rem'}} >
 <div className="row">
