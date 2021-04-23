@@ -39,7 +39,7 @@ export default function test() {
   </div>
   </div>
 </Navbar>
-<div className="container" style={{padding:'8rem 0rem'}} >
+<div className="container" style={{padding:'10rem 0rem'}} >
 <div className="row">
   <div className="col-md-6 ">
     <h1>Education scheduling software to reduce admin work, increase efficiency, and deliver better results </h1>
