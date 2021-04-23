@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Netlify Live Task Link : https://appointy-webpage-react.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
